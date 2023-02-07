@@ -1,4 +1,6 @@
 # Exercise - Spring Boot - Swagger 2
+Set of exercises completed with Spring in developer school
+
 * write a Spring Boot application that uses the following dependencies:
   * `Spring Boot DevTools`
   * `Spring Web`
